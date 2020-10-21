@@ -12,15 +12,15 @@ url = [
 
 
 track1 = [
-    'Getting Started: Create and Manage Cloud Resources',
-    'Perform Foundational Infrastructure Tasks in Google Cloud',
-    'Set up and Configure a Cloud Environment in Google Cloud',
-    'Deploy and Manage Cloud Environments with Google Cloud',
-    'Build and Secure Networks in Google Cloud',
-    'Deploy to Kubernetes in Google Cloud'
+    'Quest 1 Getting Started: Create and Manage Cloud Resources',
+    'Quest 2 Perform Foundational Infrastructure Tasks in Google Cloud',
+    'Quest 3 Set up and Configure a Cloud Environment in Google Cloud',
+    'Quest 4 Deploy and Manage Cloud Environments with Google Cloud',
+    'Quest 5 Build and Secure Networks in Google Cloud',
+    'Quest 6 Deploy to Kubernetes in Google Cloud'
 ]
 track2 = [
-    'Getting Started: Create and Manage Cloud Resources',
+    'Quest 1 Getting Started: Create and Manage Cloud Resources',
     'Perform Foundational Data, ML, and AI Tasks in Google Cloud',
     'Insights from Data with BigQuery',
     'Engineer Data in Google Cloud',
