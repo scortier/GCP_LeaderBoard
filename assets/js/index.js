@@ -26,10 +26,10 @@ function getData() {
                             <img class="c-avatar c-media__img" src="${member.dp}" />
                             <div class="c-media__content">
                                 <div class="c-media__title">${member.name}</div>
-                                <a class="c-media__link ">Track 1 - ${member.track1}</a>
+                                <a class="c-media__link ">Track 1 - </br> ${member.track1}</a>
                                 <br>
                                 <br>
-                                <a class="c-media__link ">Track 2 - ${member.track2}</a>
+                                <a class="c-media__link ">Track 2 - </br> ${member.track2}</a>
                             </div>
                         </div>
                         <div class="u-text--right c-kudos">
