@@ -31,7 +31,7 @@ jobs:
 
       - name: setup git config
         run: |
-          git config --global user.name "theharshitkumar"
+          git config --global user.name "scortier"
           git config --global user.email "<>"
           git add -A
           git commit -m "Update data"
