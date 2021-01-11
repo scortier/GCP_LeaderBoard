@@ -8,9 +8,9 @@
     --light: #CAD4E1;
     --lighter: #F5F8FC;
     --lightest: var(--white);
-    --primary: #7B16FF;
+    --primary: #1683ff;
     --primary-light: #DDD9FF;
-    --primary-trans: rgba(123, 22, 255, 0.4);
+    --primary-trans: rgba(22, 162, 255, 0.4);
     --yellow: #FDCB6E;
     --orange: #E17055;
     --teal: #00CEC9;
